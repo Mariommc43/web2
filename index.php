@@ -46,6 +46,7 @@
                 <a class="nav-link" href="index.html">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Dashboard</span></a>
+                    <p>$date = date('m/d/Y h:i:s', time());</p>
             </li>
 
             <!-- Divider -->
