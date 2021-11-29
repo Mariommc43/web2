@@ -125,6 +125,8 @@
                 <a class="nav-link" href="charts.html">
                     <i class="fas fa-fw fa-chart-area"></i>
                     <span>Charts</span></a>
+                    <link
+                    href=https://www.microsoft.com/es-es>
             </li>
 
             <!-- Nav Item - Tables -->
